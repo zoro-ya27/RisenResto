@@ -97,29 +97,29 @@
     color: #555;
   }
 
-  .item-section {
+  .menu-section {
     margin-bottom: 2em;
   }
-  .item-section h2 {
+  .menu-section h2 {
     border-bottom: 2px solid #8B0000;
     padding-bottom: 0.5em;
     margin-bottom: 1em;
     color: #8B0000;
   }
-  .item-section ul {
+  .menu-section ul {
     list-style: none;
   }
-  .item-section li {
+  .menu-section li {
     padding: 1em;
     border-bottom: 1px solid #ddd;
   }
-  .item-section li:last-child {
+  .menu-section li:last-child {
     border-bottom: none;
   }
-  .item-section .wood{
+  .menu-section .wood{
     font-weight: bold;
   }
-  .item-section .price {
+  .menu-section .price {
     float: right;
     color: #8B0000;
   }
